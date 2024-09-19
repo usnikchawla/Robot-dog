@@ -52,7 +52,5 @@ Since Trajectory following could not be implemented so these buttons are redunda
 2.Run $ roslaunch dreamwalker_simulation test2.launch in the terminal to spawn quadruple in the gazebo env.
 
 3.After the above step a GUI launches which helps you control the robot.
-
 4.The bot in the current configuration runs slow so please be patient.
-# Robot-dog
-# Robot-dog
+
