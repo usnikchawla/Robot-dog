@@ -1,7 +1,4 @@
-# ENPM 662 - Project1
-
-Modeling and Dynamic Control of a Quadrupled
-
+# Modeling and Dynamic Control of a Quadrupled
 
 ## Authors
 
